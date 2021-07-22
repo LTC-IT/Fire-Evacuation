@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.20210217unityvrgameproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\LTCpcgames\\Desktop\\2021 02 25 Unity VR Game Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "2021 02 17 Unity VR Game Project [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - projectile
+  - FxTemporaire
+  - Is ThAt A pRiUs???
+  - Miku
+  - Food
+  - Water
+  - LilCar
+  - RBMemorabilia
+  - Walkie
+  - Medicine
+  - Phone
+  - Laptop
+  - Ca$h Money
+  - Documents
+  - Award
+  - Pencil
+  - Book
+  - Lamp
+  - Torch
+  - AidKit
+  - Radio
+  - Battery
+  - Matches
+  - Mask
+  - Hat
+  - Plant
+  - SchwarzSechsPrototypeMkII
+  - Trophy
+  - Hygeine
+  - Key
+  - Start
+  - Negative
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - empty
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
